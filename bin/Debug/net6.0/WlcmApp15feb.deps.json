@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WlcmApp15feb/1.0.0": {
+        "runtime": {
+          "WlcmApp15feb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WlcmApp15feb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

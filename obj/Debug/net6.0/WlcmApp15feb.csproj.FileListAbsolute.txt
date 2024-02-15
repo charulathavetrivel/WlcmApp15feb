@@ -1,0 +1,15 @@
+C:\git\project1\15febDay3\WlcmApp15feb\WlcmApp15feb\bin\Debug\net6.0\WlcmApp15feb.exe
+C:\git\project1\15febDay3\WlcmApp15feb\WlcmApp15feb\bin\Debug\net6.0\WlcmApp15feb.deps.json
+C:\git\project1\15febDay3\WlcmApp15feb\WlcmApp15feb\bin\Debug\net6.0\WlcmApp15feb.runtimeconfig.json
+C:\git\project1\15febDay3\WlcmApp15feb\WlcmApp15feb\bin\Debug\net6.0\WlcmApp15feb.dll
+C:\git\project1\15febDay3\WlcmApp15feb\WlcmApp15feb\bin\Debug\net6.0\WlcmApp15feb.pdb
+C:\git\project1\15febDay3\WlcmApp15feb\WlcmApp15feb\obj\Debug\net6.0\WlcmApp15feb.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\project1\15febDay3\WlcmApp15feb\WlcmApp15feb\obj\Debug\net6.0\WlcmApp15feb.AssemblyInfoInputs.cache
+C:\git\project1\15febDay3\WlcmApp15feb\WlcmApp15feb\obj\Debug\net6.0\WlcmApp15feb.AssemblyInfo.cs
+C:\git\project1\15febDay3\WlcmApp15feb\WlcmApp15feb\obj\Debug\net6.0\WlcmApp15feb.csproj.CoreCompileInputs.cache
+C:\git\project1\15febDay3\WlcmApp15feb\WlcmApp15feb\obj\Debug\net6.0\WlcmApp15feb.sourcelink.json
+C:\git\project1\15febDay3\WlcmApp15feb\WlcmApp15feb\obj\Debug\net6.0\WlcmApp15feb.dll
+C:\git\project1\15febDay3\WlcmApp15feb\WlcmApp15feb\obj\Debug\net6.0\refint\WlcmApp15feb.dll
+C:\git\project1\15febDay3\WlcmApp15feb\WlcmApp15feb\obj\Debug\net6.0\WlcmApp15feb.pdb
+C:\git\project1\15febDay3\WlcmApp15feb\WlcmApp15feb\obj\Debug\net6.0\WlcmApp15feb.genruntimeconfig.cache
+C:\git\project1\15febDay3\WlcmApp15feb\WlcmApp15feb\obj\Debug\net6.0\ref\WlcmApp15feb.dll
